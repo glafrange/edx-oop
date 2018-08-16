@@ -1,0 +1,7 @@
+C:\Users\gabri\Abyss\Programming\CareerDevs\edx-oop\Mod1_Lab1\Mod1_Lab1\bin\Debug\Mod1_Lab1.exe.config
+C:\Users\gabri\Abyss\Programming\CareerDevs\edx-oop\Mod1_Lab1\Mod1_Lab1\bin\Debug\Mod1_Lab1.exe
+C:\Users\gabri\Abyss\Programming\CareerDevs\edx-oop\Mod1_Lab1\Mod1_Lab1\bin\Debug\Mod1_Lab1.pdb
+C:\Users\gabri\Abyss\Programming\CareerDevs\edx-oop\Mod1_Lab1\Mod1_Lab1\obj\Debug\Mod1_Lab1.csprojAssemblyReference.cache
+C:\Users\gabri\Abyss\Programming\CareerDevs\edx-oop\Mod1_Lab1\Mod1_Lab1\obj\Debug\Mod1_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Abyss\Programming\CareerDevs\edx-oop\Mod1_Lab1\Mod1_Lab1\obj\Debug\Mod1_Lab1.exe
+C:\Users\gabri\Abyss\Programming\CareerDevs\edx-oop\Mod1_Lab1\Mod1_Lab1\obj\Debug\Mod1_Lab1.pdb
