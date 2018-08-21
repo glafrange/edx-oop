@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Mod2_Lab3
+namespace Mod3_Lab2
 {
 	public class Student : Person
 	{
@@ -16,14 +16,14 @@ namespace Mod2_Lab3
 
 		private static int _studentCount;
 		private int _grade;
-		
+
 		public int Grade
 		{
 			get
 			{
 				return _grade;
 			}
-			
+
 			set
 			{
 				_grade = value;
